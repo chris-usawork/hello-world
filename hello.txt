@@ -1,1 +1,3 @@
 Hello, GitHub!
+Welcome to my first project!
+Added welcome message.
